@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<banco>
+    <cliente idCli="1">
+        <dniCliente>06237377F</dniCliente>
+        <nombreCliente>Victoria Sevilla</nombreCliente>
+        <fechaNacimiento>08-04-1969</fechaNacimiento>
+        <saldo>1200</saldo>
+    </cliente>
+    <cliente idCli="2">
+        <dniCliente>06224006E</dniCliente>
+        <nombreCliente>Felix Azañón</nombreCliente>
+        <fechaNacimiento>03-04-1964</fechaNacimiento>
+        <saldo>1200</saldo>
+    </cliente>
+    <cliente idCli="3">
+        <dniCliente>20368616Q</dniCliente>
+        <nombreCliente>Victor Azañon</nombreCliente>
+        <fechaNacimiento>04-05-2001</fechaNacimiento>
+        <saldo>1200</saldo>
+    </cliente>
+</banco>
